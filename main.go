@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/dolow/mcp_sandbox/cluster_public"
+	"github.com/dolow/Unofficial-Cluster-Event-MCP/cluster_public"
 	"github.com/mark3labs/mcp-go/mcp"
 	"github.com/mark3labs/mcp-go/server"
 )

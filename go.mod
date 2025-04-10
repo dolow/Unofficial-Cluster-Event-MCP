@@ -1,4 +1,4 @@
-module github.com/dolow/mcp_sandbox
+module github.com/dolow/Unofficial-Cluster-Event-MCP
 
 go 1.23
 
